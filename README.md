@@ -26,7 +26,7 @@ git clone git@github.com:FLCYR/QtLive2dDesktop.git
 
 - 只支持.moc3的模型。
 
-- 模型文件不能有错误或缺少文件，具体看**\*.model3.json** 。有些从网上下载的Live2D模型文件会有错误，用软件加载会导致闪退。
+- 模型文件不能有错误或缺少文件，具体看 **\*.model3.json**文件 。有些从网上下载的Live2D模型文件会有错误，用软件加载会导致闪退。
 
 - 有些专门用于vtube的Live2D模型，如果要用作桌面模型展示，需要做一些处理。
   
@@ -36,7 +36,7 @@ git clone git@github.com:FLCYR/QtLive2dDesktop.git
   
   3. 把所有 **\*.motion3.json**的文件放进**motions**文件夹。
 
-- 模型控制SDK来自[Live2D Cubism SDK](https://www.live2d.com/en/) 。
+- 模型控制的SDK来自[Live2D Cubism SDK](https://www.live2d.com/en/) 。
 
 - 详细移植过程可以参考我写的博客。
   
