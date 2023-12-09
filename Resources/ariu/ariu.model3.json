@@ -1,0 +1,36 @@
+{
+    "FileReferences": {
+        "DisplayInfo": "ariu.cdi3.json",
+        "Expressions": [
+        ],
+        "Moc": "ariu.moc3",
+        "Motions": {
+            "Idle": [
+            ]
+        },
+        "Physics": "ariu.physics3.json",
+        "Textures": [
+            "ariu.4096/texture_00.png",
+            "ariu.4096/texture_01.png",
+            "ariu.4096/texture_02.png",
+            "ariu.4096/texture_03.png"
+        ]
+    },
+    "Groups": [
+        {
+            "Ids": [
+            ],
+            "Name": "LipSync",
+            "Target": "Parameter"
+        },
+        {
+            "Ids": [
+                "ParamEyeLOpen",
+                "ParamEyeROpen"
+            ],
+            "Name": "EyeBlink",
+            "Target": "Parameter"
+        }
+    ],
+    "Version": 3
+}

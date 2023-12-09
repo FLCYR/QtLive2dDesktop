@@ -1,0 +1,72 @@
+{
+    "FileReferences": {
+        "DisplayInfo": "sanyueqi.cdi3.json",
+        "Expressions": [
+            {
+                "File": "expressions/1.exp3.json",
+                "Name": "1"
+            },
+            {
+                "File": "expressions/2.exp3.json",
+                "Name": "2"
+            },
+            {
+                "File": "expressions/3.exp3.json",
+                "Name": "3"
+            },
+            {
+                "File": "expressions/5.exp3.json",
+                "Name": "5"
+            },
+            {
+                "File": "expressions/6.exp3.json",
+                "Name": "6"
+            },
+            {
+                "File": "expressions/7.exp3.json",
+                "Name": "7"
+            },
+            {
+                "File": "expressions/8.exp3.json",
+                "Name": "8"
+            },
+            {
+                "File": "expressions/9.exp3.json",
+                "Name": "9"
+            }
+        ],
+        "Moc": "sanyueqi.moc3",
+        "Motions": {
+            "Idle": [
+                {
+                    "File": "motions/zhaiyan.motion3.json"
+                },
+                {
+                    "File": "motions/zhaoxiang.motion3.json"
+                }
+            ]
+        },
+        "Physics": "sanyueqi.physics3.json",
+        "Textures": [
+            "sanyueqi.4096/texture_00.png",
+            "sanyueqi.4096/texture_01.png"
+        ]
+    },
+    "Groups": [
+        {
+            "Ids": [
+                "ParamEyeLOpen",
+                "ParamEyeROpen"
+            ],
+            "Name": "EyeBlink",
+            "Target": "Parameter"
+        },
+        {
+            "Ids": [
+            ],
+            "Name": "LipSync",
+            "Target": "Parameter"
+        }
+    ],
+    "Version": 3
+}

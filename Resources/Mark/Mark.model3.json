@@ -1,0 +1,54 @@
+{
+    "FileReferences": {
+        "DisplayInfo": "Mark.cdi3.json",
+        "Expressions": [
+        ],
+        "Moc": "Mark.moc3",
+        "Motions": {
+            "Idle": [
+                {
+                    "File": "motions/mark_m01.motion3.json"
+                },
+                {
+                    "File": "motions/mark_m02.motion3.json"
+                },
+                {
+                    "File": "motions/mark_m03.motion3.json"
+                },
+                {
+                    "File": "motions/mark_m04.motion3.json"
+                },
+                {
+                    "File": "motions/mark_m05.motion3.json"
+                },
+                {
+                    "File": "motions/mark_m06.motion3.json"
+                }
+            ]
+        },
+        "Physics": "Mark.physics3.json",
+        "Textures": [
+            "Mark.2048/texture_00.png"
+        ],
+        "UserData": "Mark.userdata3.json"
+    },
+    "Groups": [
+        {
+            "Ids": [
+            ],
+            "Name": "LipSync",
+            "Target": "Parameter"
+        },
+        {
+            "Ids": [
+                "ParamEyeLOpen",
+                "ParamEyeROpen"
+            ],
+            "Name": "EyeBlink",
+            "Target": "Parameter"
+        }
+    ],
+    "HitAreas": [
+    ],
+    "Version": 3
+}

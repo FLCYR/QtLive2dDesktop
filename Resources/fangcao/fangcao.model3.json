@@ -1,0 +1,80 @@
+{
+    "FileReferences": {
+        "DisplayInfo": "fangcao.cdi3.json",
+        "Expressions": [
+            {
+                "File": "expressions/accessory.exp3.json",
+                "Name": "accessory"
+            },
+            {
+                "File": "expressions/duzui.exp3.json",
+                "Name": "duzui"
+            },
+            {
+                "File": "expressions/heixian.exp3.json",
+                "Name": "heixian"
+            },
+            {
+                "File": "expressions/miyan.exp3.json",
+                "Name": "miyan"
+            },
+            {
+                "File": "expressions/MouthPress.exp3.json",
+                "Name": "MouthPress"
+            },
+            {
+                "File": "expressions/pijian.exp3.json",
+                "Name": "pijian"
+            },
+            {
+                "File": "expressions/question.exp3.json",
+                "Name": "question"
+            },
+            {
+                "File": "expressions/red.exp3.json",
+                "Name": "red"
+            },
+            {
+                "File": "expressions/yun.exp3.json",
+                "Name": "yun"
+            },
+            {
+                "File": "expressions/睡觉.exp3.json",
+                "Name": "睡觉"
+            }
+        ],
+        "Moc": "fangcao.moc3",
+        "Motions": {
+            "Idle": [
+                {
+                    "File": "motions/IDLE.motion3.json"
+                }
+            ]
+        },
+        "Physics": "fangcao.physics3.json",
+        "Textures": [
+            "fangcao.4096/texture_00.png",
+            "fangcao.4096/texture_01.png",
+            "fangcao.4096/texture_02.png"
+        ]
+    },
+    "Groups": [
+        {
+            "Ids": [
+                "ParamEyeLOpen",
+                "ParamEyeROpen"
+            ],
+            "Name": "EyeBlink",
+            "Target": "Parameter"
+        },
+        {
+            "Ids": [
+            ],
+            "Name": "LipSync",
+            "Target": "Parameter"
+        }
+    ],
+    "HitAreas": [
+    ],
+    "Version": 3
+}

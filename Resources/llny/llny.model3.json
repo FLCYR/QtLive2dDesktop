@@ -1,0 +1,95 @@
+{
+    "FileReferences": {
+        "DisplayInfo": "llny.cdi3.json",
+        "Expressions": [
+            {
+                "File": "expressions/F01.exp3.json",
+                "Name": "F01"
+            },
+            {
+                "File": "expressions/F02.exp3.json",
+                "Name": "F02"
+            },
+            {
+                "File": "expressions/F03.exp3.json",
+                "Name": "F03"
+            },
+            {
+                "File": "expressions/F04.exp3.json",
+                "Name": "F04"
+            },
+            {
+                "File": "expressions/F05.exp3.json",
+                "Name": "F05"
+            },
+            {
+                "File": "expressions/F06.exp3.json",
+                "Name": "F06"
+            },
+            {
+                "File": "expressions/F07.exp3.json",
+                "Name": "F07"
+            },
+            {
+                "File": "expressions/F09.exp3.json",
+                "Name": "F09"
+            },
+            {
+                "File": "expressions/F10.exp3.json",
+                "Name": "F10"
+            },
+            {
+                "File": "expressions/F11.exp3.json",
+                "Name": "F11"
+            },
+            {
+                "File": "expressions/F12.exp3.json",
+                "Name": "F12"
+            },
+            {
+                "File": "expressions/F13.exp3.json",
+                "Name": "F13"
+            },
+            {
+                "File": "expressions/F14.exp3.json",
+                "Name": "F14"
+            },
+            {
+                "File": "expressions/F15.exp3.json",
+                "Name": "F15"
+            }
+        ],
+        "Moc": "llny.moc3",
+        "Motions": {
+            "Idle": [
+                {
+                    "File": "motions/idel.motion3.json"
+                }
+            ]
+        },
+        "Physics": "llny.physics3.json",
+        "Textures": [
+            "llny.4096/texture_00.png",
+            "llny.4096/texture_01.png"
+        ]
+    },
+    "Groups": [
+        {
+            "Ids": [
+                "ParamEyeLOpen",
+                "ParamEyeROpen"
+            ],
+            "Name": "EyeBlink",
+            "Target": "Parameter"
+        },
+        {
+            "Ids": [
+            ],
+            "Name": "LipSync",
+            "Target": "Parameter"
+        }
+    ],
+    "HitAreas": [
+    ],
+    "Version": 3
+}

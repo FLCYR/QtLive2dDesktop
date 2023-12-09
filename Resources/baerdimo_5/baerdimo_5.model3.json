@@ -1,0 +1,125 @@
+{
+    "FileReferences": {
+        "Expressions": [
+        ],
+        "Moc": "baerdimo_5.moc3",
+        "Motions": {
+            "": [
+                {
+                    "File": "motions/effect.motion3.json"
+                },
+                {
+                    "File": "motions/idle.motion3.json"
+                },
+                {
+                    "File": "motions/complete.motion3.json"
+                },
+                {
+                    "File": "motions/main_3.motion3.json"
+                },
+                {
+                    "File": "motions/touch_body.motion3.json"
+                },
+                {
+                    "File": "motions/main_1.motion3.json"
+                },
+                {
+                    "File": "motions/home.motion3.json"
+                },
+                {
+                    "File": "motions/mission.motion3.json"
+                },
+                {
+                    "File": "motions/login.motion3.json"
+                },
+                {
+                    "File": "motions/touch_head.motion3.json"
+                },
+                {
+                    "File": "motions/mail.motion3.json"
+                },
+                {
+                    "File": "motions/mission_complete.motion3.json"
+                },
+                {
+                    "File": "motions/wedding.motion3.json"
+                },
+                {
+                    "File": "motions/main_2.motion3.json"
+                },
+                {
+                    "File": "motions/touch_special.motion3.json"
+                }
+            ],
+            "Idle": [
+                {
+                    "File": "motions/complete.motion3.json"
+                },
+                {
+                    "File": "motions/effect.motion3.json"
+                },
+                {
+                    "File": "motions/home.motion3.json"
+                },
+                {
+                    "File": "motions/idle.motion3.json"
+                },
+                {
+                    "File": "motions/login.motion3.json"
+                },
+                {
+                    "File": "motions/mail.motion3.json"
+                },
+                {
+                    "File": "motions/main_1.motion3.json"
+                },
+                {
+                    "File": "motions/main_2.motion3.json"
+                },
+                {
+                    "File": "motions/main_3.motion3.json"
+                },
+                {
+                    "File": "motions/mission.motion3.json"
+                },
+                {
+                    "File": "motions/mission_complete.motion3.json"
+                },
+                {
+                    "File": "motions/touch_body.motion3.json"
+                },
+                {
+                    "File": "motions/touch_head.motion3.json"
+                },
+                {
+                    "File": "motions/touch_special.motion3.json"
+                },
+                {
+                    "File": "motions/wedding.motion3.json"
+                }
+            ]
+        },
+        "Physics": "baerdimo_5.physics3.json",
+        "Textures": [
+            "textures/texture_00.png"
+        ]
+    },
+    "Groups": [
+        {
+            "Ids": [
+                "ParamEyeLOpen",
+                "ParamEyeROpen"
+            ],
+            "Name": "EyeBlink",
+            "Target": "Parameter"
+        },
+        {
+            "Ids": [
+                "ParamMouthOpenY"
+            ],
+            "Name": "LipSync",
+            "Target": "Parameter"
+        }
+    ],
+    "Version": 3
+}

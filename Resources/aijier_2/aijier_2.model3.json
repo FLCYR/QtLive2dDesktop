@@ -1,0 +1,31 @@
+{
+    "FileReferences": {
+        "Expressions": [
+        ],
+        "Moc": "aijier_2.moc3",
+        "Motions": {
+            "Idle": [
+                {
+                    "File": "motions/complete.motion3.json"
+                },
+                {
+                    "File": "motions/wedding.motion3.json"
+                }
+            ]
+        },
+        "Physics": "aijier_2.physics3.json",
+        "Textures": [
+            "textures/texture_00.png"
+        ]
+    },
+    "Groups": [
+        {
+            "Ids": [
+                "ParamMouthOpenY"
+            ],
+            "Name": "LipSync",
+            "Target": "Parameter"
+        }
+    ],
+    "Version": 3
+}
