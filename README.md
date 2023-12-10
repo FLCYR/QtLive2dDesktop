@@ -4,7 +4,7 @@
 
 ![](https://github.com/FLCYR/QtLive2dDesktop/blob/master/imgs/capture.png)
 
-![](https://github.com/FLCYR/QtLive2dDesktop/blob/master/imgs/single.gif)
+![](https://img-blog.csdnimg.cn/direct/2fa56dd63358464e97405d0c42ea4b08.gif)
 
 ![](https://github.com/FLCYR/QtLive2dDesktop/blob/master/imgs/multi.gif)
 
