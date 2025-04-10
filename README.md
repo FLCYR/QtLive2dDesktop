@@ -16,7 +16,7 @@
 git clone git@github.com:FLCYR/QtLive2dDesktop.git
 ```
 
-安装Visual Studio 2019，使用Qt的IDE打开**QtLive2D.pro** ，选择x64，Release模式即可编译运行。
+安装Visual Studio 2019，使用Qt的IDE打开**QtLive2D.pro** ，选择x64，Release模式即可编译运行,需要把Resource文件夹(里面是模型)放在exe程序目录下。
 
 # Download
 
